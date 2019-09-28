@@ -26,6 +26,10 @@ body {
 
 /*-------------Navbar--------*/
 
+.navbar-light {
+    float: right;
+}
+
 .navbar-collapse {
     text-align: right;
     border-top: 1px solid transparent;
@@ -33,9 +37,7 @@ body {
     
 }
 
-
-
-.navbar-toggler {
+.dropdown-toggler {
     border: 0;
 }
 
