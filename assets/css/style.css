@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+body {
+    background: linear-gradient(to bottom, #00ffff 0%, #ffcccc 100%);
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    height: 50vh;
+
+    background: url("../images/brushes.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+
+
+/*-------------Navbar--------*/
+
+.navbar-toggler {
+    border: 0;
+}
+
+/*---------------------Heading---*/
+
+.heading {
+    margin-left: 50px;
+}
+
+.name {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #fff;
+}
+
+
+/*-------------Work Examples--------*/
+
+.work-title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #000000;
+}
+
+/*-------------Footer--------*/
+
+#footer-content {
+    float: right;
+    
+}
+
+
+
+
+/*-------------Social Links--------*/
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+
+}
+
+.social-links {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
