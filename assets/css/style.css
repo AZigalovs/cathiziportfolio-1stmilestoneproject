@@ -24,17 +24,19 @@ body {
 
 
 
+
+
 /*-------------Navbar--------*/
 
 .navbar-light {
     float: right;
+    padding: 0;
 }
 
 .navbar-collapse {
     text-align: right;
     border-top: 1px solid transparent;
     overflow-x: hidden;
-    
 }
 
 .dropdown-toggler {
@@ -44,7 +46,6 @@ body {
 #navbarNav {
     font-family: "Roboto", sans-serif;
     font-weight: normal;
-    
 }
 
 /*---------------------Heading---*/
@@ -82,6 +83,31 @@ body {
     color: #000000;
 }
 
+
+/*-------------Meet Me/Skills--------*/
+
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin-bottom: 4px;
+    background: transparent;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.progress-section {
+    margin: 40px 20px;
+}
+
+
 /*-------------Footer--------*/
 
 #footer-content {
@@ -106,6 +132,21 @@ body {
 
 /*-------------Contact Form--------*/
 
+#contact {
+    background-attachment: fixed;
+    background-image: url("../images/palette.jpg");
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 .contact-heading {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
@@ -114,6 +155,7 @@ body {
 }
 
 .center-form {
+    position: relative;
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
