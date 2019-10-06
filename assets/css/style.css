@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
-=======
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
 
 body {
     background: linear-gradient(to bottom, #00ffff 0%, #ffcccc 100%);
@@ -25,10 +21,6 @@ body {
 
     position: relative;
 }
-
-
-
-
 
 /*-------------Navbar--------*/
 
@@ -60,34 +52,22 @@ body {
 
 .name {
     font-family: "Roboto", sans-serif;
-<<<<<<< HEAD
     font-weight: 300;
     font-size: 50px;
     margin-top: 50px;
     color: #000000;
-=======
-    font-weight: 100;
-    font-size: 50px;
-    margin-top: 50px;
-    color: #fff;
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
+
 }
 
 .title {
     font-family: "Roboto", sans-serif;
-<<<<<<< HEAD
+
     font-weight: 300;
     font-size: 28px;
     margin-top: 20px;
     margin-bottom: 90px;
     color: #000000;
-=======
-    font-weight: 200;
-    font-size: 28px;
-    margin-top: 20px;
-    margin-bottom: 90px;
-    color: #fff;
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
+
 }
 
 
@@ -145,28 +125,14 @@ body {
 /*-------------Contact Form--------*/
 
 #contact {
-<<<<<<< HEAD
-    
-=======
-    width: 100vw;
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
+
     background-attachment: fixed;
     background-image: url("../images/palette.jpg");
    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-<<<<<<< HEAD
-   
-    
-=======
 
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
 }
 
 .contact-heading {
@@ -175,11 +141,10 @@ body {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
-<<<<<<< HEAD
+
     color: #000000;
-=======
-    color: #fff;
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
+
+
 }
 
 .center-form {
@@ -195,7 +160,4 @@ button[type="submit"] {
     color: #fafafa;
     background-color: #8B0000;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
