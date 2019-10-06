@@ -48,4 +48,4 @@ All background photose were taken from [Pexels](https://www.pexels.com/), stock 
 
 The idea for creating minimalistic, one page style website was taken from the Hayley Schafer portfolio example provided by Code Institute. Code for "Meet Me" and "Services" sections was also partially taken from the "Whiskey Drop" website created during one of the CSS modules. That code was modified to meet needs of this website.
 
-Also, 
+###### This is for educational use.
