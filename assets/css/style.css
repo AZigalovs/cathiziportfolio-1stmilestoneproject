@@ -9,7 +9,7 @@ body {
 .top-container {
     height: 50vh;
 
-    background: url("../images/brushes.jpg") no-repeat bottom right fixed;
+    background: url("../images/brushes.jpg") no-repeat bottom right;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -126,7 +126,7 @@ body {
 
 #contact {
 
-    background-attachment: fixed;
+    
     background-image: url("../images/palette.jpg");
    -webkit-background-size: cover;
     -moz-background-size: cover;

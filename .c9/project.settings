@@ -1,13 +1,4 @@
 {
-<<<<<<< HEAD
-=======
-    "build": {
-        "@saveall": true
-    },
-    "instance": {
-        "@automaticShutdown": "30"
-    },
->>>>>>> d0ddcb281c33f51bd4791734e0c6302f84e6f531
     "language": {
         "tern_defs": {
             "json()": {
