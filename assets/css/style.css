@@ -127,8 +127,6 @@ body {
 
 #contact {
     
-    height: 80vh;
-    
     background-attachment: fixed;
     background-image: url("../images/palette.jpg");
    -webkit-background-size: cover;
