@@ -19,17 +19,19 @@ The goal was to create a website with easy access to portfolio images and servic
 3. Bootstrap (4.3.1)
 4. Fontawesome (5.6.1) (4.7.0)
 
-### Features 
+## Features 
 
-Website uses embeded Instagram pictures, which allow users/visitors to go directly to the source of the image. 
+Website uses embeded Instagram pictures, which allow users/visitors to go directly to the source of the image. As well as ability to see how popular the look is.
 
-## Features Left to Implement
+### Features Left to Implement
 
 I would potentially like to include carousel type imagery for Services provided. Along with incorporating videos of makeup being done or tutorials.
 
 ## Testing
 
 Webpage was tested across multiple devices via DevTool option in Chrome. It has also been tested on multiple browsers for compatability and responsivness. 
+
+I have used my personal iPhone 7 and Xiaomi Pocophone to test how it would work on a smaller and bigger mobile screens.
 
 ## Deployment
 
@@ -43,10 +45,10 @@ Content in "Meet Me" section was written by me, section "Services" was written w
 
 ### Media
 
-All background photose were taken from [Pexels](https://www.pexels.com/), stock image library. With the exception of images under "Some of My Work" and "Meet Me" sections, which are persona images of my wife.
+All background photose were taken from [Pexels](https://www.pexels.com/), stock image library. With the exception of images under "Some of My Work" and "Meet Me" sections, which are personal images of my wife.
 
 ### Acknowledgements
 
-The idea for creating minimalistic, one page style website was taken from the Hayley Schafer portfolio example provided by Code Institute. Code for "Meet Me" and "Services" sections was also partially taken from the "Whiskey Drop" website created during one of the CSS modules. That code was modified to meet needs of this website.
+The idea for creating minimalistic, one page style website was taken from the Hayley Schafer portfolio example provided by Code Institute. Code for "Meet Me" and "Services" sections was also partially taken from the "Whiskey Drop" website created during one of the CSS modules. That code was modified to meet needs of this project.
 
 ###### This is for educational use.
