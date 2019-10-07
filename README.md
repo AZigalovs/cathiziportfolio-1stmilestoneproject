@@ -17,6 +17,7 @@ The goal was to create a website with easy access to portfolio images and servic
 1. HTML5
 2. CSS3
 3. Bootstrap (4.3.1)
+4. Fontawesome (5.6.1) (4.7.0)
 
 ## Features Left to Implement
 
