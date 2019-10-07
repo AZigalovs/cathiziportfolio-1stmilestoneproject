@@ -19,13 +19,13 @@ The goal was to create a website with easy access to portfolio images and servic
 3. Bootstrap (4.3.1)
 4. Fontawesome (5.6.1) (4.7.0)
 
-## Features Left to Implement
-
-I would potentially like to include carousel type imagery for Services provided.
+### Features 
 
 Website uses embeded Instagram pictures, which allow users/visitors to go directly to the source of the image. 
 
-### Features 
+## Features Left to Implement
+
+I would potentially like to include carousel type imagery for Services provided. Along with incorporating videos of makeup being done or tutorials.
 
 ## Testing
 
