@@ -35,7 +35,7 @@ I have used my personal iPhone 7 and Xiaomi Pocophone to test how it would work 
 
 ## Deployment
 
-This portfolio site is hoseted using GitHub Pages, deployed directly from the master branch. The live site updates automatically each time there is a new push to the repositary. You can run it locally by cloning repositary directly by using git clone and using following URL https://azigalovs.github.io/cathiziportfolio-1stmilestoneproject/
+This portfolio site is hoseted using GitHub Pages, deployed directly from the master branch. The live site updates automatically each time there is a new push to the repositary. You can run it locally by cloning repositary directly by using `git clone` and using following URL https://azigalovs.github.io/cathiziportfolio-1stmilestoneproject/
 
 ## Credits
 
